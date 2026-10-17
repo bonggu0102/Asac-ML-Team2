@@ -139,8 +139,8 @@ Train은 869건·140개 처방 그룹, Test는 255건·36개 처방 그룹으로
 ### Jupyter Notebook
 
 ```bash
-git clone https://github.com/bonggu0102/cosmetic-skin-risk-screening.git
-cd cosmetic-skin-risk-screening
+git clone https://github.com/bonggu0102/Asac-ML-Team2.git
+cd Asac-ML-Team2
 pip install -r requirements.txt
 jupyter notebook
 ```
@@ -148,8 +148,8 @@ jupyter notebook
 ### Google Colab
 
 ```python
-!git clone https://github.com/bonggu0102/cosmetic-skin-risk-screening.git
-%cd cosmetic-skin-risk-screening
+!git clone https://github.com/bonggu0102/Asac-ML-Team2.git
+%cd Asac-ML-Team2
 !pip install -r requirements.txt
 ```
 
